@@ -98,7 +98,6 @@
   "Nature's Balance": "202430",
   "Brambles": "203953",
   "Blood Frenzy": "203962",
-  "Force of Nature": "37846",
   "Moonfire": "164812",
   "Improved Prowl": "231052",
   "Revive": "50769",
@@ -445,5 +444,8 @@
   "Thick Hide": "16931",
   "Keeper of the Grove": "433831",
   "Elune's Chosen": "424058",
+  "Solar Eclipse": "326053",
+  "Lunar Eclipse": "48518",
+  "Force of Nature": "205636",
   "new ability": "9393"
 }
